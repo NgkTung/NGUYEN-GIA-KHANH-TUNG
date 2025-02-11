@@ -1,0 +1,194 @@
+[
+  {
+    "currency": "BLUR",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.20811525423728813,
+    "icon": "BLUR.png"
+  },
+  {
+    "currency": "bNEO",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 7.1282679,
+    "icon": "bNEO.png"
+  },
+  {
+    "currency": "BUSD",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.999183113,
+    "icon": "BUSD.png"
+  },
+  {
+    "currency": "USD",
+    "date": "2023-08-29T07:10:30.000Z",
+    "price": 1,
+    "icon": "USD.png"
+  },
+  {
+    "currency": "ETH",
+    "date": "2023-08-29T07:10:52.000Z",
+    "price": 1645.9337373737374,
+    "icon": "ETH.png"
+  },
+  {
+    "currency": "GMX",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 36.345114372881355,
+    "icon": "GMX.png"
+  },
+  {
+    "currency": "STEVMOS",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.07276706779661017,
+    "icon": "stEVMOS.png"
+  },
+  {
+    "currency": "LUNA",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.40955638983050846,
+    "icon": "LUNA.png"
+  },
+  {
+    "currency": "RATOM",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 10.250918915254237,
+    "icon": "rATOM.png"
+  },
+  {
+    "currency": "STRD",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.7386553389830508,
+    "icon": "STRD.png"
+  },
+  {
+    "currency": "EVMOS",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.06246181355932203,
+    "icon": "EVMOS.png"
+  },
+  {
+    "currency": "IBCX",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 41.26811355932203,
+    "icon": "IBCX.png"
+  },
+  {
+    "currency": "IRIS",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.0177095593220339,
+    "icon": "IRIS.png"
+  },
+  {
+    "currency": "ampLUNA",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.49548589830508477,
+    "icon": "ampLUNA.png"
+  },
+  {
+    "currency": "KUJI",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 0.675,
+    "icon": "KUJI.png"
+  },
+  {
+    "currency": "STOSMO",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 0.431318,
+    "icon": "stOSMO.png"
+  },
+  {
+    "currency": "USDC",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.989832,
+    "icon": "USDC.png"
+  },
+  {
+    "currency": "axlUSDC",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.989832,
+    "icon": "axlUSDC.png"
+  },
+  {
+    "currency": "ATOM",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 7.186657333333334,
+    "icon": "ATOM.png"
+  },
+  {
+    "currency": "STATOM",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 8.512162050847458,
+    "icon": "stATOM.png"
+  },
+  {
+    "currency": "OSMO",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 0.3772974333333333,
+    "icon": "OSMO.png"
+  },
+  {
+    "currency": "rSWTH",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.00408771,
+    "icon": "rSWTH.png"
+  },
+  {
+    "currency": "STLUNA",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.44232210169491526,
+    "icon": "stLUNA.png"
+  },
+  {
+    "currency": "LSI",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 67.69661525423729,
+    "icon": "LSI.png"
+  },
+  {
+    "currency": "OKB",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 42.97562059322034,
+    "icon": "OKB.png"
+  },
+  {
+    "currency": "OKT",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 13.561577966101694,
+    "icon": "OKT.png"
+  },
+  {
+    "currency": "SWTH",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 0.004039850455012084,
+    "icon": "SWTH.png"
+  },
+  {
+    "currency": "USC",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.994,
+    "icon": "USC.png"
+  },
+  {
+    "currency": "WBTC",
+    "date": "2023-08-29T07:10:52.000Z",
+    "price": 26002.82202020202,
+    "icon": "WBTC.png"
+  },
+  {
+    "currency": "wstETH",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 1872.2579742372882,
+    "icon": "wstETH.png"
+  },
+  {
+    "currency": "YieldUSD",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 1.0290847966101695,
+    "icon": "YieldUSD.png"
+  },
+  {
+    "currency": "ZIL",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 0.01651813559322034,
+    "icon": "ZIL.png"
+  }
+]
