@@ -74,7 +74,7 @@ const FromCurrencySelect = ({ label }) => {
 
   return (
     <div className="w-full max-w-[400px]" tabIndex={0}>
-      <label htmlFor="price" className="block font-medium text-gray-900">
+      <label htmlFor="price" className="block font-medium text-gray-900 text-[1.5vh]">
         {label}
       </label>
       <div className="mt-2">

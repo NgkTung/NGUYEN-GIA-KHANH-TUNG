@@ -13,7 +13,9 @@ const FromCurrencySelectItem = () => {
           //   alt={`${item.currency} currency icon`}
           className="mr-2 w-[30px]"
         />
-        {item.currency}
+        <p className="font-semibold">
+          {item.currency}
+        </p>
       </div>
     ),
   }));
