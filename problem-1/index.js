@@ -1,6 +1,6 @@
 const MAX_SAFE_INTEGER = Number.MAX_SAFE_INTEGER;
 
-const n = 99999999999;
+const n = 5; // fixed value
 
 // Using simple loop
 var sum_to_n_a = function (n) {
